@@ -236,3 +236,21 @@ color:wheat;
     width: 1650px;
      background-color: white;
 }
+.uy{
+    height: 2200px;
+    width: 1350px;
+    background-color: white;
+}
+.ad{
+    height: 250px;
+    width: 1350px;
+    background-color: blue;
+}
+.hji{
+    display: flex;
+    background-color: rgb(212, 212, 101);
+}
+.yu{
+    height: 40px;
+    width: 40px;
+}
