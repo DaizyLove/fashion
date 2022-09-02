@@ -60,6 +60,7 @@ margin-left: 100px;
     height: 100px;
     background-color: white;
     position: fixed;
+    display: flex;
 }
 .j{
     margin-bottom: 20px;
@@ -127,6 +128,8 @@ color:wheat;
 }
 .y{
     background-color: white;
+    height: 1000px;
+    width: 1350px;
 }
 .z{
     display: inline-block;
@@ -237,3 +240,9 @@ color:wheat;
     width: 1650px;
      background-color: white;
 }
+.uy{
+    height: 1000px;
+    width: 1350px;
+    background-color: white;
+}
+
