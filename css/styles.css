@@ -17,6 +17,7 @@ body{
     display: inline-block;
     color: rgb(0, 0, 0);
     margin-left: 40px;
+    margin-top: 50px;
 }
 .m{
     height: 40px;
@@ -59,7 +60,6 @@ margin-left: 100px;
     width: 100%;
     height: 100px;
     background-color: white;
-    position: fixed;
     display: flex;
 }
 .j{
@@ -125,11 +125,7 @@ color:wheat;
 .x{
     display: flex;
     margin-left: 100px;
-}
-.y{
-    background-color: white;
-    height: 1000px;
-    width: 1350px;
+    margin-top: 50px;
 }
 .z{
     display: inline-block;
@@ -241,8 +237,20 @@ color:wheat;
      background-color: white;
 }
 .uy{
-    height: 1000px;
+    height: 2200px;
     width: 1350px;
     background-color: white;
 }
-
+.ad{
+    height: 250px;
+    width: 1350px;
+    background-color: blue;
+}
+.hji{
+    display: flex;
+    background-color: rgb(212, 212, 101);
+}
+.yu{
+    height: 40px;
+    width: 40px;
+}
