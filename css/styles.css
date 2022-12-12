@@ -170,10 +170,11 @@ color:wheat;
     position: absolute;
     margin-left: 850px;
 }
-.aq{
+#aq{
     background-color:black;
     height: 500px;
     width: 1650px;
+    margin-bottom: 50px;
 }
 .as{
     width: 180px;
@@ -235,6 +236,7 @@ color:wheat;
     height: 1000px;
     width: 1650px;
      background-color: white;
+     margin-bottom: 50px;
 }
 .uy{
     height: 2200px;
@@ -246,7 +248,7 @@ color:wheat;
     width: 1350px;
     background-color: blue;
 }
-.hji{
+#hji{
     display: flex;
     background-color: rgb(212, 212, 101);
 }
@@ -261,10 +263,20 @@ color:wheat;
     width: 1350px;
     height: 500px;
 }
-
-
-
-
+#divid{
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 20px;
+}
+#con{
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+#swim{
+    margin-top: 20px;
+}
 
 
 
